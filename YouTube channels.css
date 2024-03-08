@@ -38,9 +38,10 @@ margin-left: 5px;
 }
 
 .blue-tick {
+font-size: 14px;
 color: white;
-padding-left: 7px;
-padding-top: 3px;
+padding-left: 8px;
+padding-top: 4px;
 }
 
 /*  Header middle container  */
