@@ -57,6 +57,18 @@ padding: 3px;
 background: no-repeat;
 }
 
+menu-photo:hover {
+width: 30px;
+height: 30px;
+margin-top: 1px;
+margin-left: -37px;
+cursor: pointer;
+background-color: transparent;
+border-radius: 5px;
+padding: 3px;
+background: no-repeat;
+}
+
 .menu-photo:active {
 width: 30px;
 height: 30px;
