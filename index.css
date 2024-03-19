@@ -57,7 +57,7 @@ padding: 3px;
 background: no-repeat;
 }
 
-menu-photo:hover {
+.menu-photo:hover {
 width: 30px;
 height: 30px;
 margin-top: 1px;
