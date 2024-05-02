@@ -24,16 +24,7 @@ background-color: white;
 
 .header:hover {
 background-color: rgb(250, 250, 250);
-}
-
-/*  Header left container  */
-
-.blue-tick {
-width: 32px;
-height: 32px;
-margin-top: 3px;
-margin-left: 3px;
-}
+}
 
 /*  Header middle container  */
 
