@@ -155,10 +155,7 @@ height: 50px;
 display: flex;
 align-items: center;
 font-family: arial, tahoma;
-padding-left: 25px;
-padding-right: 25px;
-padding-top: 10px;
-padding-bottom: 10px;
+padding: auto;
 box-shadow: 0 0 1px 1px rgb(232, 222, 222);
 margin-bottom: 4px;
 }
