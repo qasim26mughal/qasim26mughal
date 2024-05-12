@@ -151,6 +151,7 @@ margin-bottom: 22px;
 /*  All outer container except header  */
 
 .container {
+height: 50px;
 display: flex;
 align-items: center;
 font-family: arial, tahoma;
