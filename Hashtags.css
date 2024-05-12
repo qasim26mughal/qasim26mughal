@@ -174,26 +174,24 @@ margin: auto;
 font-size: 18px;
 }
 
-  /*  Screen width 0px to 339px  */
+   /*  Screen width 0px to 339px  */
 
   @media (max-width: 339px) {
-  .header {
-  margin-left: 8px;
-  margin-right: 8px;
-  }
   .qasim-mughal {
   font-size: 15px;
+  }
+  .hashtag-1 {
+  font-size: 12px;
   }
   }
 
     /*  Screen width 340px to 359px  */
 
     @media (min-width: 340px) and (max-width: 359px) {
-    .header {
-    margin-left: 8px;
-    margin-right: 8px;
-    }
     .qasim-mughal {
+    font-size: 15px;
+    }
+    .hashtag-1 {
     font-size: 15px;
     }
     }
@@ -201,11 +199,10 @@ font-size: 18px;
       /*  Screen width 360px to 379px  */
 
       @media (min-width: 360px) and (max-width: 379px) {
-      .header {
-      margin-left: 8px;
-      margin-right: 8px;
-      }
       .qasim-mughal {
+      font-size: 16px;
+      }
+      .hashtag-1 {
       font-size: 16px;
       }
       }
@@ -213,30 +210,27 @@ font-size: 18px;
         /*  Screen width 380px to 399px  */
 
         @media (min-width: 380px) and (max-width: 399px) {
-        .header {
-        margin-left: 8px;
-        margin-right: 8px;
-        }
         .qasim-mughal {
         font-size: 17px;
+        }
+        .hashtag-1 {
+        font-size: 18px;
         }
         }
 
           /*  Screen width 400px to 429px  */
 
           @media (min-width: 400px) and (max-width: 429px) {
-          .header {
-          margin-left: 8px;
-          margin-right: 8px;
+          .hashtag-1 {
+          font-size: 18px;
           }
           }
 
             /*  Screen width 430px to 450px  */
 
             @media (min-width: 430px) and (max-width: 450px) {
-            .header {
-            margin-left: 8px;
-            margin-right: 8px;
+            .hashtag-1 {
+            font-size: 18px;
             }
             }
 
