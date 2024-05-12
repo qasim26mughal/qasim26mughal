@@ -169,6 +169,10 @@ background-color: rgb(250, 250, 250);
   /*  Screen width 0px to 339px  */
 
   @media (max-width: 339px) {
+  .header {
+  margin-left: 8px;
+  margin-right: 8px;
+  }
   .qasim-mughal {
   font-size: 15px;
   }
@@ -177,6 +181,10 @@ background-color: rgb(250, 250, 250);
     /*  Screen width 340px to 359px  */
 
     @media (min-width: 340px) and (max-width: 359px) {
+    .header {
+    margin-left: 8px;
+    margin-right: 8px;
+    }
     .qasim-mughal {
     font-size: 15px;
     }
@@ -185,27 +193,141 @@ background-color: rgb(250, 250, 250);
       /*  Screen width 360px to 379px  */
 
       @media (min-width: 360px) and (max-width: 379px) {
+      .header {
+      margin-left: 8px;
+      margin-right: 8px;
+      }
       .qasim-mughal {
       font-size: 16px;
-      }
+      }
       }
 
         /*  Screen width 380px to 399px  */
 
         @media (min-width: 380px) and (max-width: 399px) {
+        .header {
+        margin-left: 8px;
+        margin-right: 8px;
+        }
         .qasim-mughal {
         font-size: 17px;
+        }
+        .profile-photo {
+        margin-right: 13px;
+        margin-left: -10px;
+        }
+        .username {
+        font-size: 18px;
+        }
+        .tiktok-button {
+        width: 80px;
+        margin-right: -10px;
+        font-size: 13px;
+        }
+        .instagram-button {
+        width: 80px;
+        margin-right: -10px;
+        font-size: 13px;
+        }
+        .threads-button {
+        width: 80px;
+        margin-right: -10px;
+        font-size: 13px;
+        }
+        .facebook-button {
+        width: 80px;
+        margin-right: -10px;
+        font-size: 13px;
+        }
+        .youtube-button {
+        width: 80px;
+        margin-right: -10px;
+        font-size: 13px;
+        }
+        .snapchat-button {
+        width: 80px;
+        margin-right: -10px;
+        font-size: 13px;
+        }
+        .pinterest-button {
+        width: 80px;
+        margin-right: -10px;
+        font-size: 13px;
         }
         }
 
           /*  Screen width 400px to 429px  */
 
           @media (min-width: 400px) and (max-width: 429px) {
+          .header {
+          margin-left: 8px;
+          margin-right: 8px;
+          }
+          .profile-photo {
+          margin-right: 13px;
+          margin-left: -10px;
+          }
+          .username {
+          font-size: 18px;
+          }
+          .tiktok-button {
+          margin-right: -10px;
+          }
+          .instagram-button {
+          margin-right: -10px;
+          }
+          .threads-button {
+          margin-right: -10px;
+          }
+          .facebook-button {
+          margin-right: -10px;
+          }
+          .youtube-button {
+          margin-right: -10px;
+          }
+          .snapchat-button {
+          margin-right: -10px;
+          }
+          .pinterest-button {
+          margin-right: -10px;
+          }
           }
 
             /*  Screen width 430px to 450px  */
 
             @media (min-width: 430px) and (max-width: 450px) {
+            .header {
+            margin-left: 8px;
+            margin-right: 8px;
+            }
+            .profile-photo {
+            margin-right: 13px;
+            margin-left: -5px;
+            }
+            .username {
+            font-size: 18px;
+            }
+            .tiktok-button {
+            margin-right: -5px;
+            }
+            .instagram-button {
+            margin-right: -5px;
+            }
+            .threads-button {
+            margin-right: -5px;
+            }
+            .facebook-button {
+            margin-right: -5px;
+            }
+            .youtube-button {
+            margin-right: -5px;
+            }
+            .snapchat-button {
+            margin-right: -5px;
+            }
+            .pinterest-button {
+            margin-right: -5px;
+            }
             }
 
               /*  Screen width 510px to 619px  */
@@ -218,6 +340,9 @@ background-color: rgb(250, 250, 250);
               .header {
               margin-right: 4.3%;
               margin-left: 4.3%;
+              }
+              .profile-photo {
+              margin-right: 25px;
               }
               }
 
@@ -232,6 +357,9 @@ background-color: rgb(250, 250, 250);
                 margin-left: 6%;
                 margin-right: 6%;
                 }
+                .profile-photo {
+                margin-right: 25px;
+                }
                 }
 
                   /*  Screen width 768px to 949px  */
@@ -244,6 +372,9 @@ background-color: rgb(250, 250, 250);
                   .header {
                   margin-left: 12.7%;
                   margin-right: 12.7%;
+                  }
+                  .profile-photo {
+                  margin-right: 25px;
                   }
                   }
 
@@ -258,6 +389,9 @@ background-color: rgb(250, 250, 250);
                     margin-left: 15.6%;
                     margin-right: 15.6%;
                     }
+                    .profile-photo {
+                    margin-right: 25px;
+                    }
                     }
 
                       /*  Screen width 1024px to 1439px  */
@@ -271,6 +405,9 @@ background-color: rgb(250, 250, 250);
                       margin-left: 20.4%;
                       margin-right: 20.4%;
                       }
+                      .profile-photo {
+                      margin-right: 25px;
+                      }
                       }
 
                         /*  Screen width 1440px to max  */
@@ -283,5 +420,8 @@ background-color: rgb(250, 250, 250);
                         .header {
                         margin-left: 20.3%;
                         margin-right: 20.3%;
+                        }
+                        .profile-photo {
+                        margin-right: 25px;
                         }
                         }
