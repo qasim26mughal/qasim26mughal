@@ -164,14 +164,7 @@ margin-bottom: 4px;
 
 .container:hover {
 background-color: rgb(250, 250, 250);
-}
-
-/*  username  */
-
-.username {
-flex: 1;
-font-size: 18px;
-}
+}
 
   /*  Screen width 0px to 339px  */
 
@@ -208,31 +201,11 @@ font-size: 18px;
           /*  Screen width 400px to 429px  */
 
           @media (min-width: 400px) and (max-width: 429px) {
-          .profile-photo {
-          margin-right: 13px;
-          margin-left: -10px;
-          }
-          .username {
-          font-size: 18px;
-          }
-          .youtube-button {
-          margin-right: -10px;
-          }
           }
 
             /*  Screen width 430px to 450px  */
 
             @media (min-width: 430px) and (max-width: 450px) {
-            .profile-photo {
-            margin-right: 13px;
-            margin-left: -5px;
-            }
-            .username {
-            font-size: 18px;
-            }
-            .youtube-button {
-            margin-right: -5px;
-            }
             }
 
               /*  Screen width 510px to 619px  */
@@ -245,9 +218,6 @@ font-size: 18px;
               .header {
               margin-right: 4.3%;
               margin-left: 4.3%;
-              }
-              .profile-photo {
-              margin-right: 25px;
               }
               }
 
@@ -262,9 +232,6 @@ font-size: 18px;
                 margin-left: 6%;
                 margin-right: 6%;
                 }
-                .profile-photo {
-                margin-right: 25px;
-                }
                 }
 
                   /*  Screen width 768px to 949px  */
@@ -277,9 +244,6 @@ font-size: 18px;
                   .header {
                   margin-left: 12.7%;
                   margin-right: 12.7%;
-                  }
-                  .profile-photo {
-                  margin-right: 25px;
                   }
                   }
 
@@ -294,9 +258,6 @@ font-size: 18px;
                     margin-left: 15.6%;
                     margin-right: 15.6%;
                     }
-                    .profile-photo {
-                    margin-right: 25px;
-                    }
                     }
 
                       /*  Screen width 1024px to 1439px  */
@@ -310,9 +271,6 @@ font-size: 18px;
                       margin-left: 20.4%;
                       margin-right: 20.4%;
                       }
-                      .profile-photo {
-                      margin-right: 25px;
-                      }
                       }
 
                         /*  Screen width 1440px to max  */
@@ -325,8 +283,5 @@ font-size: 18px;
                         .header {
                         margin-left: 20.3%;
                         margin-right: 20.3%;
-                        }
-                        .profile-photo {
-                        margin-right: 25px;
                         }
                         }
