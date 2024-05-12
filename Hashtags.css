@@ -165,7 +165,14 @@ margin-bottom: 4px;
 
 .container:hover {
 background-color: rgb(250, 250, 250);
-}
+}
+
+/*  Hashtag 1  */
+
+.hashtag-1 {
+margin: auto;
+font-size: 18px;
+}
 
   /*  Screen width 0px to 339px  */
 
