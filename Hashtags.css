@@ -152,12 +152,8 @@ margin-bottom: 22px;
 
 .container {
 display: flex;
-align-items: center;
+padding: auto;
 font-family: arial, tahoma;
-padding-left: 25px;
-padding-right: 25px;
-padding-top: 10px;
-padding-bottom: 10px;
 box-shadow: 0 0 1px 1px rgb(232, 222, 222);
 margin-bottom: 4px;
 }
