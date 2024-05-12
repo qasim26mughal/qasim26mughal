@@ -212,48 +212,6 @@ background-color: rgb(250, 250, 250);
         .qasim-mughal {
         font-size: 17px;
         }
-        .profile-photo {
-        margin-right: 13px;
-        margin-left: -10px;
-        }
-        .username {
-        font-size: 18px;
-        }
-        .tiktok-button {
-        width: 80px;
-        margin-right: -10px;
-        font-size: 13px;
-        }
-        .instagram-button {
-        width: 80px;
-        margin-right: -10px;
-        font-size: 13px;
-        }
-        .threads-button {
-        width: 80px;
-        margin-right: -10px;
-        font-size: 13px;
-        }
-        .facebook-button {
-        width: 80px;
-        margin-right: -10px;
-        font-size: 13px;
-        }
-        .youtube-button {
-        width: 80px;
-        margin-right: -10px;
-        font-size: 13px;
-        }
-        .snapchat-button {
-        width: 80px;
-        margin-right: -10px;
-        font-size: 13px;
-        }
-        .pinterest-button {
-        width: 80px;
-        margin-right: -10px;
-        font-size: 13px;
-        }
         }
 
           /*  Screen width 400px to 429px  */
@@ -262,34 +220,6 @@ background-color: rgb(250, 250, 250);
           .header {
           margin-left: 8px;
           margin-right: 8px;
-          }
-          .profile-photo {
-          margin-right: 13px;
-          margin-left: -10px;
-          }
-          .username {
-          font-size: 18px;
-          }
-          .tiktok-button {
-          margin-right: -10px;
-          }
-          .instagram-button {
-          margin-right: -10px;
-          }
-          .threads-button {
-          margin-right: -10px;
-          }
-          .facebook-button {
-          margin-right: -10px;
-          }
-          .youtube-button {
-          margin-right: -10px;
-          }
-          .snapchat-button {
-          margin-right: -10px;
-          }
-          .pinterest-button {
-          margin-right: -10px;
           }
           }
 
