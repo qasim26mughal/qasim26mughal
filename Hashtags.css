@@ -24,16 +24,7 @@ background-color: white;
 
 .header:hover {
 background-color: rgb(250, 250, 250);
-}
-
-/*  Header left container  */
-
-.blue-tick {
-width: 32px;
-height: 32px;
-margin-top: 3px;
-margin-left: 3px;
-}
+}
 
 /*  Header middle container  */
 
@@ -120,7 +111,7 @@ cursor: pointer;
 background-color: rgb(250, 250, 250);
 }
 
-.menu-youtube-channels {
+.menu-hashtags {
 width: 100%;
 height: 35px;
 background-color: transparent;
@@ -130,7 +121,7 @@ border-bottom: 1px solid rgb(238, 238, 238);
 font-family: tahoma, arial;
 cursor: pointer;
 }
-.menu-youtube-channels:hover {
+.menu-hashtags:hover {
 background-color: rgb(250, 250, 250);
 }
 
@@ -173,45 +164,14 @@ margin-bottom: 4px;
 
 .container:hover {
 background-color: rgb(250, 250, 250);
-}
-
-/*  Profile Photos  */
-
-.profile-photo {
-width: 50px;
-min-width: 30px;
-border-radius: 100%;
-margin-right: 20px;
-}
+}
 
 /*  username  */
 
 .username {
 flex: 1;
 font-size: 18px;
-}
-
-/*  YouTube  */
-
-.youtube-button {
-margin-right: 0px;
-width: 100px;
-height: 40px;
-color: white;
-background-color: red;
-border: none;
-border-radius: 5px;
-font-family: arial, tahoma;
-font-weight: bold;
-font-size: 15px;
-transition: 0.05s;
-}
-.youtube-button:hover {
-color: red;
-background-color: white;
-border: 1px solid red;
-transition: 0.05s;
-}
+}
 
   /*  Screen width 0px to 339px  */
 
@@ -219,37 +179,11 @@ transition: 0.05s;
   .qasim-mughal {
   font-size: 15px;
   }
-  .profile-photo {
-  border-radius: 100%;
-  margin-right: 9px;
-  margin-left: -10px;
-  }
-  .username {
-  font-size: 12px;
-  }
-  .youtube-button {
-  width: 80px;
-  font-size: 12px;
-  margin-right: -10px;
-  }
   }
 
     /*  Screen width 340px to 359px  */
 
     @media (min-width: 340px) and (max-width: 359px) {
-    .profile-photo {
-    margin-left: -10px;
-    margin-right: 10px;
-    }
-    .youtube-button {
-    width: 80px;
-    margin-right: -10px;
-    font-size: 12px;
-    margin-right: -10px;
-    }
-    .username {
-    font-size: 15px;
-    }
     .qasim-mughal {
     font-size: 15px;
     }
@@ -260,19 +194,7 @@ transition: 0.05s;
       @media (min-width: 360px) and (max-width: 379px) {
       .qasim-mughal {
       font-size: 16px;
-      }
-      .profile-photo {
-      margin-right: 13px;
-      margin-left: -10px;
-      }
-      .username {
-      font-size: 16px;
-      }
-      .youtube-button {
-      width: 80px;
-      margin-right: -10px;
-      font-size: 13px;
-      }
+      }
       }
 
         /*  Screen width 380px to 399px  */
@@ -280,18 +202,6 @@ transition: 0.05s;
         @media (min-width: 380px) and (max-width: 399px) {
         .qasim-mughal {
         font-size: 17px;
-        }
-        .profile-photo {
-        margin-right: 13px;
-        margin-left: -10px;
-        }
-        .username {
-        font-size: 18px;
-        }
-        .youtube-button {
-        width: 80px;
-        margin-right: -10px;
-        font-size: 13px;
         }
         }
 
