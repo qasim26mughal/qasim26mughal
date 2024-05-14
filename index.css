@@ -161,6 +161,7 @@ padding-top: 10px;
 padding-bottom: 10px;
 box-shadow: 0 0 1px 1px rgb(232, 222, 222);
 margin-bottom: 4px;
+background-color: white;
 }
 
 .container:hover {
